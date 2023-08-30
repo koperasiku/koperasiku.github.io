@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkloan_cms_v2"]=self["webpackChunkloan_cms_v2"]||[]).push([[240],{1240:function(n,t,u){u.r(t),u.d(t,{default:function(){return o}});var e=function(){var n=this;n._self._c;return n._m(0)},r=[function(){var n=this,t=n._self._c;return t("div",[t("h1",{staticClass:"text-center"},[n._v("Not Found 404")])])}],s={name:"NotFound",data(){return{}}},l=s,a=u(1001),c=(0,a.Z)(l,e,r,!1,null,null,null),o=c.exports}}]);
-//# sourceMappingURL=240.6f459b73.js.map
